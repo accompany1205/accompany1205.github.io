@@ -759,7 +759,7 @@ p {
 }
 
 .item-card > div > picture::before {
-  content: "FrontEnd + BackEnd";
+  content: "React | Next.js | Vue";
   display: flex;
   flex-direction: column;
   align-items: flex-end;
@@ -793,7 +793,7 @@ p {
 }
 
 .portfolio-item:nth-child(3) > .item-card > div > picture::before {
-  content: "Web3 | Solidity | Ethereum";
+  content: "ExpressJS | Laravel | Django";
 }
 
 .item-card > div > picture::after {
@@ -1284,7 +1284,7 @@ p {
 .description {
   display: flex;
   padding: 50px 60px 50px 0px;
-  height: 300px;
+  height: 440px;
   color: var(--title-color);
   align-items: center;
 }
